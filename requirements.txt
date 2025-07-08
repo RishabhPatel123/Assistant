@@ -1,0 +1,7 @@
+torch==2.2.2
+transformers==4.39.3
+datasets==2.18.0
+accelerate==0.27.2
+numpy==1.26.4
+duckduckgo-search==0.9
+tqdm
